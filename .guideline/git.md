@@ -26,3 +26,13 @@ git push -u origin main
 
 [REF](https://docs.github.com/en/repositories/creating-and-managing-repositories/deleting-a-repository)
 Repo>Settings>Danger Zone
+
+## Git error rename failed
+
+```bash
+$ git branch -M main
+error: refname refs/heads/master not found
+fatal: Branch rename failed
+```
+
+I deleted the repo, and started all over again, and it come right. thanks
