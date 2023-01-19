@@ -23,3 +23,8 @@ Add format when save
 
 sudo apt-get update
 sudo apt-get upgrade code
+
+## Update Ubuntu
+
+sudo apt-get update
+sudo apt-get upgrade
