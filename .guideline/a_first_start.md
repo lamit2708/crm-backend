@@ -71,9 +71,14 @@ This is user from Database:db_aznose> Table:auth_user
 
 ## Check API with Postman
 
-http://127.0.0.1:8000/api/signup/
+[Local](http://127.0.0.1:8000/api/signup/)
 {
 "username": "admin321",
 "email":"admin321",
 "password":"0biet321"
 }
+
+## Setup with git
+
+Click commit to update code to save in the local server
+Click sync to update code to the git server
