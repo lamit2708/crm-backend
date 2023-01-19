@@ -8,6 +8,27 @@
 
 /mnt/Data/aznose/src/AZNose/sources/aznose
 
+## Seting Virtual Python Environment Backend
+
+Create Virtual Environment env
+
+```bash
+python3 -m venv env
+```
+
+Use virtual environemnt
+
+```bash
+source ./env/bin/activate
+```
+
+Install requirements
+
+```bash
+#pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
+```
+
 ## Start backend
 
 source ./env/bin/activate
