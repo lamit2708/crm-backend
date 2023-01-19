@@ -11,6 +11,21 @@ Visual Studio Code>Clone Git Repository> Past> OK> Select Repository Location
 
 /mnt/Data/aznose/src/AZNose/sources/admin-manage
 
+## Frontend Setup have the error
+
+### to update npm because it is sometimes buggy
+
+npm install -g npm@latest
+
+### to remove the existing modules
+
+rm -rf node_modules
+
+### to re-install the project dependencies
+
+npm install
+npm audit fix
+
 ## Folder Backend
 
 /mnt/Data/aznose/src/AZNose/sources/aznose
