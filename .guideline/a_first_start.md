@@ -1,5 +1,12 @@
 # Start Aznose Project
 
+## Clone Repository
+
+Jump to github
+LINK <https://github.com/lamit2708/crm-backend> Example
+Click Code> Copy
+Visual Studio Code>Clone Git Repository> Past> OK> Select Repository Location
+
 ## Folder Frontend
 
 /mnt/Data/aznose/src/AZNose/sources/admin-manage
@@ -33,6 +40,10 @@ python3 -m pip install -r requirements.txt
 
 source ./env/bin/activate
 python3 manage.py runserver 127.0.0.1:8000
+
+## Install Frontend
+
+yarn install
 
 ## Start frontend
 
